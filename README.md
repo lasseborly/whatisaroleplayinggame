@@ -1,5 +1,5 @@
 Role-playing games are kind of "Let's pretend", you all play around a table, using your
-imaginations to tell the story.
+imaginations to tell a story.
 
 Players play as Characters in the game - and you describe what your
 Character says and does.
