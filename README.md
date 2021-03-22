@@ -14,3 +14,5 @@ in what they are trying to do.
 
 A game can last as little as two or three hours, but you might want to play a for
 longer. Weeks, months or maybe years.
+
+![qr-code](https://user-images.githubusercontent.com/2671660/112011385-84544500-8b28-11eb-8424-c3d762f07bfe.png)
