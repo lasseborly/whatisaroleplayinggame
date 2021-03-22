@@ -1,4 +1,4 @@
-Role-playing games are king of "Let's pretend", you all play around a table, using your
+Role-playing games are kind of "Let's pretend", you all play around a table, using your
 imaginations to tell the story.
 
 Players play as Characters in the game - and you describe what your
